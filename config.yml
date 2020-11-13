@@ -1,0 +1,8 @@
+#########################################################################
+# GreenPing by iTzMyGreeN - Konfigurációs fájl 
+#########################################################################
+
+ping-parancs:
+  ping-uzenet: "&a&lGreen&f&lScrims &7| &fPinged: &a%ping%ms"
+  ping-jatekos-uzenet: "&a&lGreen&f&lScrims &7| &a%target% &fpingje: &a%ping%ms"
+  jatekos-nem-talalhato: "&a&lGreen&f&lScrims &7| &cA játékos nem elérhető szerverünkön!"
